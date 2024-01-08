@@ -21,7 +21,8 @@
     "title": "About me",
     "image": "/aboutimg.jpg",
     "primary": "I'm Leenard Benn P. Broca  a detail-oriented front-end developer with 2 years of experience, skilled in HTML, CSS, and JavaScript, including frameworks like React and Vue.js. I specialize in translating design concepts into responsive, user-friendly interfaces. ",
-    "secondary": "My hobbies in life are  about watching videos and playing basketball."
+    "github": "http://www.example.com/github",
+    "secondary": "My hobbies in life are  about watching videos and playing basketball"
   },
   "projects": {
     "title": "Projects",
@@ -30,14 +31,14 @@
         "title": "Middleman",
         "description": "Middleman is built on Ruby and uses the RubyGems package manager for installation. These are usually pre-installed on Mac OS X and Linux.",
         "url": "https://github.com/middleman/middleman",
-       
+        "github": "http://www.example.com/github",
         "image": "/middleman.png"
       },
       {
 				"title": "Developer Resources",
 				"description": "This is a collection of resources for Frontend development Most of the resources are free but we also included paid resources.",
 				"url": "https://github.com/codingknite/frontend-development",
-       
+        "github": "http://www.example.com/github",
 				"image": "/dr.jpg"
 			},
       {
