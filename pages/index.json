@@ -21,7 +21,7 @@
     "title": "About me",
     "image": "/aboutimg.jpg",
     "primary": "I'm Leenard Benn P. Broca  a detail-oriented front-end developer with 2 years of experience, skilled in HTML, CSS, and JavaScript, including frameworks like React and Vue.js. I specialize in translating design concepts into responsive, user-friendly interfaces. ",
-    "github": "http://www.example.com/github",
+    
     "secondary": "My hobbies in life are  about watching videos and playing basketball"
   },
   "projects": {
@@ -45,7 +45,7 @@
 				"title": "URL Shortening Landing Page",
 				"description": "This project could also be a good way to get your feet wet with JS libraries/frameworks like React or Vue. Also, if the user refreshes their browser, try using localStorage to save the list of shortened links.",
 				"url": "https://github.com/frontend-mentor/url-shortening-api-landing-page",
-       
+        "github": "http://www.example.com/github",
 				"image": "/url.png"
 			}
     ]
