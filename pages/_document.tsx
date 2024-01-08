@@ -1,4 +1,4 @@
-import { Html, Head, NextScript } from 'next/document'
+import { Html, Head, NextScript, Main} from 'next/document'
 import Header from './components/Header'
 import Hero from './components/Hero'
 import About from './components/About'
@@ -13,6 +13,8 @@ export default function Document() {
       <Head />
       <body className='text-black'>
         <NextScript />
+        <Main />
+
         <Header />
         <Hero />
         <About />
